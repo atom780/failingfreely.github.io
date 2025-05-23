@@ -10,3 +10,7 @@ plugins:
   - jekyll-seo-tag
 
 markdown: kramdown
+header_pages:
+  - current-events.md
+  - blog.md
+  - contact.md
