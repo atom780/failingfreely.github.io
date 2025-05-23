@@ -1,0 +1,12 @@
+title: Failing Freely
+description: A blog about current events, thoughts, and more
+baseurl: "" # Leave this empty if your site is on https://<username>.github.io/repo-name
+url: "https://atom780.github.io/failingfreely.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+markdown: kramdown
